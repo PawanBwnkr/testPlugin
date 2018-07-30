@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { smisdk-android-plugin } = NativeModules;
+const { SmiSdkReactModule } = NativeModules;
 
-export default smisdk-android-plugin;
+export default SmiSdkReactModule;
