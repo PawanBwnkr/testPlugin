@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNSmisdkPlugin } = NativeModules;
+const { smisdk-android-plugin } = NativeModules;
 
-export default RNSmisdkPlugin;
+export default smisdk-android-plugin;
