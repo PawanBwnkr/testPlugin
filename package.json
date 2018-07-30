@@ -1,6 +1,6 @@
 
 {
-  "name": "react-native-test-plugin",
+  "name": "react-native-smisdk-plugin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

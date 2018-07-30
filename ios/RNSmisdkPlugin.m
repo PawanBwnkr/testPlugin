@@ -1,7 +1,7 @@
 
-#import "RNTestPlugin.h"
+#import "RNSmisdkPlugin.h"
 
-@implementation RNTestPlugin
+@implementation RNSmisdkPlugin
 
 - (dispatch_queue_t)methodQueue
 {

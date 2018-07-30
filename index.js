@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNTestPlugin } = NativeModules;
+const { RNSmisdkPlugin } = NativeModules;
 
-export default RNTestPlugin;
+export default RNSmisdkPlugin;
