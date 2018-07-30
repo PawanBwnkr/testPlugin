@@ -1,6 +1,7 @@
 
-import { NativeModules } from 'react-native';
+// import { NativeModules } from 'react-native';
+// const { SmiSdkReactModule } = NativeModules;
+var _reactNative = require('react-native');
+var sponsoredModule = _reactNative.NativeModules.SmiSdkReactModule;
 
-const { SmiSdkReactModule } = NativeModules;
-
-export default SmiSdkReactModule;
+export default sponsoredModule;
